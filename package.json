@@ -1,0 +1,9 @@
+{
+  "name": "CIS663",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "csv-writer": "^1.5.0"
+  }
+}

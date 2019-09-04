@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "@tensorflow/tfjs-node": "^1.2.8",
+    "bcryptjs": "^2.4.3",
+    "canvas": "^2.6.0",
+    "cli-progress": "^3.1.0",
+    "face-api.js": "^0.20.1",
+    "faker": "^4.1.0",
+    "glob-fs": "^0.1.7",
+    "jsdom": "^15.1.1",
+    "node-fetch": "^2.6.0",
+    "websocket": "^1.0.29"
+  }
+}

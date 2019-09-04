@@ -1,0 +1,15 @@
+node_modules
+colorferet
+seed
+out
+accounts
+.git
+.DS_Store
+*/node_modules
+*/colorferet
+*/seed
+*/out
+*/accounts
+*/.git
+*/.DS_Store
+Dockerfile
