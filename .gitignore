@@ -4,8 +4,11 @@
 node_modules
 */node_modules
 */colorferet
-*/out
-*/seed
-*/accounts
+*/out/*
+*/seed/*
+*/accounts/*
+!*/out/.gitkeep
+!*/seed/.gitkeep
+!*/accounts/.gitkeep
 */public
 face-detection-backend/_cache.json
